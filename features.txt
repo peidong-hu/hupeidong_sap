@@ -1,0 +1,6 @@
+1) poc
+   a. collect data every 3 seconds
+
+
+2) production
+   a. collect data every 1 hours
